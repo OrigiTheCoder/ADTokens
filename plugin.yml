@@ -1,0 +1,8 @@
+main: testpl.main
+name: ADTokens
+description: AD Tokens is a way of advertising your goods in chat.
+version: 1.0
+author: Rignac
+commands:
+  ad:
+  buyad:
